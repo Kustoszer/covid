@@ -1,0 +1,16 @@
+[{
+        "date": "2018-04-04",
+        "zgony": 10,
+        "zakazenia": 20
+    },
+    {
+        "date": "2018-04-05",
+        "zgony": 80,
+        "zakazenia": 50
+    },
+    {
+        "date": "2018-04-06",
+        "zgony": 30,
+        "zakazenia": 80
+    }
+]
